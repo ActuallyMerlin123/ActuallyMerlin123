@@ -1,4 +1,4 @@
-![Image](Icon.png)
+![Image](Icon.png) { width: 50%; }
 ## About Me
 I am specializing in graphics programming in C/C++.
 
