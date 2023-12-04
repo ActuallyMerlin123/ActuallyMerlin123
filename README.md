@@ -1,4 +1,5 @@
-<img src="Icon.png" alt="Icon" width="50%"/>
+<img src="Icon.png" alt="Icon" width="25%"/>
+
 ## About Me
 I am specializing in graphics programming in C/C++.
 
