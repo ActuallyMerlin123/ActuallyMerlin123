@@ -1,21 +1,19 @@
 <img src="Icon.png" alt="Icon" width="25%"/>
 
-## About Me
-I am specializing in graphics programming in C/C++.
+# Languages / Tools in Use
+- Rust
+- C++/C
+- Python
 
-### Current Projects
-Currently I am working on a medium scale SFML fighting game.
-Also I am building a small compiler in C++ using LLVM.
-## Skills
+# Learning Ressources
+- **Harward CS50** on YouTube, or - [https://pll.harvard.edu/course/cs50-introduction-computer-science]
+- **Design Patterns: Elements of Reusable Object-Oriented Software** by *GoF*
+- **Raytracing in one weekend** - [https://raytracing.github.io]
+- **Linear Algebra done wrong** - [https://www.math.brown.edu/streil/papers/LADW/LADW.html]
+- **Linear Algebra done right** - [https://linear.axler.net]
+- **Game Physics in one weekend** - [https://gamephysicsweekend.github.io]
+for a complete graphics programming only ressource, look at:
+- [https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9]
 
-**Programming Languages**
-- [C/C++ (main)](https://github.com/topics/cpp)
-- [Python](https://github.com/python)
-- [Rust](https://github.com/rust-lang/rust)
-- [Common Lisp](https://github.com/topics/common-lisp)
-- [Lua](https://github.com/lua)
-
-**Graphics Programming**
-- [SFML](https://github.com/SFML/SFML)
-- [OpenGL](https://github.com/KhronosGroup/OpenGL)
-- bit of [Vulkan](https://github.com/KhronosGroup/Vulkan-Docs)
+# Current Projects
+- **Luma**, a VFX compositor written in Rust - [https://github.com/ActuallyMerlin123/Luma]
