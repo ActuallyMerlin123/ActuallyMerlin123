@@ -12,7 +12,7 @@
 - **Linear Algebra done wrong** - [https://www.math.brown.edu/streil/papers/LADW/LADW.html]
 - **Linear Algebra done right** - [https://linear.axler.net]
 - **Game Physics in one weekend** - [https://gamephysicsweekend.github.io]
-for a complete graphics programming only ressource, look at:
+#### For a complete graphics programming only ressource, look at:
 - [https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9]
 
 # Current Projects
